@@ -1,0 +1,1 @@
+## Patika.dev'in CSS kursunun bölüm sonu ödevi
